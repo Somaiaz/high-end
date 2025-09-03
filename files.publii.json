@@ -1,0 +1,447 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "db511084645a937abd9ef795722c2d43"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/kuaily-gouhie",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/kuaily-gouhie/index.html",
+        "type": "file",
+        "md5": "4a3121cdb7bcd30d622bb1fc5598683b"
+    },
+    {
+        "path": "authors/kuaily-gouhie/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/kuaily-gouhie/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/kuaily-gouhie/page/2/index.html",
+        "type": "file",
+        "md5": "7c52f67a2a569497156d289ac21508aa"
+    },
+    {
+        "path": "authors/kuaily-gouhie/page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/kuaily-gouhie/page/3/index.html",
+        "type": "file",
+        "md5": "f5d998193ab5bce4966b69c010d44e02"
+    },
+    {
+        "path": "authors/kuaily-gouhie/page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/kuaily-gouhie/page/4/index.html",
+        "type": "file",
+        "md5": "144a5c22b4b0b448579557108e47b658"
+    },
+    {
+        "path": "discover-premium-usa-furniture-at-mobilia-cleopatra-style-and-elegance-for-your-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-premium-usa-furniture-at-mobilia-cleopatra-style-and-elegance-for-your-home/index.html",
+        "type": "file",
+        "md5": "d47c7a3628ebc3829fb761ea6a1e2dbe"
+    },
+    {
+        "path": "discover-timeless-elegance-for-your-home-with-mobila-cleopatra-usa-furniture-collection",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-for-your-home-with-mobila-cleopatra-usa-furniture-collection/index.html",
+        "type": "file",
+        "md5": "a98e93465c30c0ac80d0ec7daa7941de"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home/index.html",
+        "type": "file",
+        "md5": "dda41ea6d9525c48b9d56f2478522bba"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home-2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-for-your-american-home-2/index.html",
+        "type": "file",
+        "md5": "b653578546123b2ed910fe902361ba12"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-luxury-styles-for-your-usa-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-luxury-styles-for-your-usa-home/index.html",
+        "type": "file",
+        "md5": "78f9525d482b1fdc83badb99e2b6f77d"
+    },
+    {
+        "path": "discover-timeless-elegance-with-cleopatra-furniture-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-cleopatra-furniture-usa/index.html",
+        "type": "file",
+        "md5": "d28a0967b968333f5c105f1eeeab7190"
+    },
+    {
+        "path": "discover-timeless-elegance-with-mobila-cleopatra-usa-furniture-collections",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-mobila-cleopatra-usa-furniture-collections/index.html",
+        "type": "file",
+        "md5": "b73a0786700b2da1f4ed74832bf532f5"
+    },
+    {
+        "path": "discover-timeless-elegance-with-usa-furniture-from-mobilia-cleopatra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/discover-timeless-elegance-with-usa-furniture-from-mobilia-cleopatra/index.html",
+        "type": "file",
+        "md5": "6e302f9c51074f201ab38c5042c91c76"
+    },
+    {
+        "path": "elevate-your-home-decor-with-elegant-usa-furniture-from-mobilia-cleopatra",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-home-decor-with-elegant-usa-furniture-from-mobilia-cleopatra/index.html",
+        "type": "file",
+        "md5": "4e17eb1dcd744bf5f883ebf1c426065f"
+    },
+    {
+        "path": "elevate-your-home-with-a-luxury-gold-bedroom-design-tips-and-ideas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-home-with-a-luxury-gold-bedroom-design-tips-and-ideas/index.html",
+        "type": "file",
+        "md5": "fcc0cb80e5b995aa3603086673faf994"
+    },
+    {
+        "path": "elevate-your-space-with-the-luxurious-cleopatra-bedroom-set",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/elevate-your-space-with-the-luxurious-cleopatra-bedroom-set/index.html",
+        "type": "file",
+        "md5": "efefd8f8706f80bab7742a587cd6bfc6"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "07bfe52f116f9561b0a1ba997fbe9f6f"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "0fce3214a2e12f05e21ff232030205a3"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "aefa46bf41cc4b24f77e92c3ecfc9ee2"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Arm-Chair-buy-now-pay-later.jpeg",
+        "type": "file",
+        "md5": "4b14e6050c07b2eee113cf6694850e66"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Arm-Chair-buy-now-pay-later-2xl.jpeg",
+        "type": "file",
+        "md5": "0cb6b34ace325c5a7c98d786d5c959c5"
+    },
+    {
+        "path": "/media/website/responsive/Arm-Chair-buy-now-pay-later-lg.jpeg",
+        "type": "file",
+        "md5": "0cb6b34ace325c5a7c98d786d5c959c5"
+    },
+    {
+        "path": "/media/website/responsive/Arm-Chair-buy-now-pay-later-md.jpeg",
+        "type": "file",
+        "md5": "0cb6b34ace325c5a7c98d786d5c959c5"
+    },
+    {
+        "path": "/media/website/responsive/Arm-Chair-buy-now-pay-later-sm.jpeg",
+        "type": "file",
+        "md5": "4b6a9de3ecf0ad31f928e94610997680"
+    },
+    {
+        "path": "/media/website/responsive/Arm-Chair-buy-now-pay-later-xl.jpeg",
+        "type": "file",
+        "md5": "0cb6b34ace325c5a7c98d786d5c959c5"
+    },
+    {
+        "path": "/media/website/responsive/Arm-Chair-buy-now-pay-later-xs.jpeg",
+        "type": "file",
+        "md5": "80017b30e0c5a45ddb1ea8e7857c0282"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "3ea801368ab46bc4d2ea80d5f12e67ee"
+    },
+    {
+        "path": "page/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/3/index.html",
+        "type": "file",
+        "md5": "0845e679c6f640c90b6a35fe8089ee44"
+    },
+    {
+        "path": "page/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/4/index.html",
+        "type": "file",
+        "md5": "aafce6da0faf6f62b5f255374b6e4de9"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "a3b29a293b66d1b0501c74d3c04fd143"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "59cf7e4925038ed76a9a9716e1e8fbd0"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "ed94dc89da3ab68eaf9775714d31fb26"
+    },
+    {
+        "path": "top-10-exclusive-bedroom-sets-to-elevate-your-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-10-exclusive-bedroom-sets-to-elevate-your-space/index.html",
+        "type": "file",
+        "md5": "a780898400dc2e3038281abb518b38fc"
+    },
+    {
+        "path": "top-10-high-end-bedroom-furniture-sets-to-elevate-your-home-decor",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-10-high-end-bedroom-furniture-sets-to-elevate-your-home-decor/index.html",
+        "type": "file",
+        "md5": "e9a553167ce8bc23e925c562a61564f3"
+    },
+    {
+        "path": "top-trends-in-bedroom-set-luxury-for-an-elegant-and-comfortable-space",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-trends-in-bedroom-set-luxury-for-an-elegant-and-comfortable-space/index.html",
+        "type": "file",
+        "md5": "6215db20ccab9c6a0e16d96d985bd17c"
+    },
+    {
+        "path": "top-trends-in-luxury-bedroom-furniture-for-sale-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-trends-in-luxury-bedroom-furniture-for-sale-in-the-usa/index.html",
+        "type": "file",
+        "md5": "94c2c6e177c9a47434831353cfb326a7"
+    },
+    {
+        "path": "top-trends-in-luxury-bedroom-set-furniture-for-a-stylish-and-comfortable-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-trends-in-luxury-bedroom-set-furniture-for-a-stylish-and-comfortable-home/index.html",
+        "type": "file",
+        "md5": "2c0f069dffbfda983061e252a20481c0"
+    },
+    {
+        "path": "top-trends-in-luxury-bedroom-suites-furniture-for-a-stylish-home",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-trends-in-luxury-bedroom-suites-furniture-for-a-stylish-home/index.html",
+        "type": "file",
+        "md5": "c82a0eed3803245eb74b68e4bf72dc52"
+    },
+    {
+        "path": "top-trends-in-modern-luxury-bedroom-sets-for-a-stylish-home-makeover",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/top-trends-in-modern-luxury-bedroom-sets-for-a-stylish-home-makeover/index.html",
+        "type": "file",
+        "md5": "8a667f9043f8411c94950a4a7695e55a"
+    },
+    {
+        "path": "transform-your-sleep-space-with-luxe-bedroom-furniture-ideas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/transform-your-sleep-space-with-luxe-bedroom-furniture-ideas/index.html",
+        "type": "file",
+        "md5": "1a8189478c7b79b1b0a16ce39b75473b"
+    },
+    {
+        "path": "why-mobili-a-cleopatra-is-revolutionizing-luxury-furniture-in-the-usa",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/why-mobili-a-cleopatra-is-revolutionizing-luxury-furniture-in-the-usa/index.html",
+        "type": "file",
+        "md5": "391bcbc6733995d234e3675b94a4f06d"
+    }
+]
